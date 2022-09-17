@@ -145,6 +145,3 @@ Feedstock Maintainers
 
 * [@williamjamir](https://github.com/williamjamir/)
 
-
-<!-- dummy commit to enable rerendering -->
-
